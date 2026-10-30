@@ -73,6 +73,7 @@ APIs for product research, catalog intelligence, pricing, reviews, shopping resu
 - [Bright Data Amazon Scraper API](https://docs.brightdata.com/datasets/scrapers/amazon/introduction) — Structured Amazon product, review, seller, and search-result data via API. `REST`
 - [DataForSEO Merchant API](https://docs.dataforseo.com/v3/merchant/) — Product and merchant-data API documentation from DataForSEO. `REST`
 - [Keepa API](https://keepa.com/api-docs/) — Amazon product, price-history, offer, seller, deal, and product-tracking data. `REST`
+- [Pangolinfo Amazon Scraper API](https://docs.pangolinfo.com/en-api-reference/amazonApi/submit) — A Bearer-token-authenticated REST endpoint for Amazon requests, with responses in structured JSON, raw HTML, or Markdown. `REST`
 - [PowerReviews APIs](https://apidocs.powerreviews.com/) — APIs for product-review, question-and-answer, review-display, and review-submission integrations. `REST`
 - [PriceAPI](https://www.priceapi.com/documentation/) — APIs for product and price information from supported online shops. `REST`
 - [Rainforest API](https://www.rainforestapi.com/docs) — Amazon product, search, category, reviews, and offer data APIs. `REST`
